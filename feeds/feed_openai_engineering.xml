@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>OpenAI Engineering News</title>
+    <link>https://openai.com/news/engineering</link>
+    <description>Latest engineering news and updates from OpenAI</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 26 Jan 2026 03:51:19 +0000</lastBuildDate>
+    <item>
+      <title>OpenAI o3 and o4-mini</title>
+      <link>https://openai.com/index/introducing-o3-and-o4-mini/</link>
+      <description>OpenAI o3 and o4-mini</description>
+      <guid isPermaLink="false">https://openai.com/index/introducing-o3-and-o4-mini/</guid>
+      <category>Engineering</category>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas</title>
+      <link>https://openai.com/index/building-chatgpt-atlas/</link>
+      <description>How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas</description>
+      <guid isPermaLink="false">https://openai.com/index/building-chatgpt-atlas/</guid>
+      <category>Engineering</category>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How we used Codex to build Sora for Android in 28 days</title>
+      <link>https://openai.com/index/shipping-sora-for-android-with-codex/</link>
+      <description>How we used Codex to build Sora for Android in 28 days</description>
+      <guid isPermaLink="false">https://openai.com/index/shipping-sora-for-android-with-codex/</guid>
+      <category>Engineering</category>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scaling PostgreSQL to power 800 million ChatGPT users</title>
+      <link>https://openai.com/index/scaling-postgresql/</link>
+      <description>Scaling PostgreSQL to power 800 million ChatGPT users</description>
+      <guid isPermaLink="false">https://openai.com/index/scaling-postgresql/</guid>
+      <category>Engineering</category>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unrolling the Codex agent loop</title>
+      <link>https://openai.com/index/unrolling-the-codex-agent-loop/</link>
+      <description>Unrolling the Codex agent loop</description>
+      <guid isPermaLink="false">https://openai.com/index/unrolling-the-codex-agent-loop/</guid>
+      <category>Engineering</category>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
