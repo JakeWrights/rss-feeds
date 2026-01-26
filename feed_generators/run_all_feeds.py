@@ -14,7 +14,27 @@ def run_all_feeds():
         int: Exit code (0 for success, 1 if any script failed)
     """
     feed_generators_dir = os.path.dirname(os.path.abspath(__file__))
-    skip_scripts = []
+    skip_scripts = [
+        "anthropic_changelog_claude_code.py",
+        "anthropic_news_blog.py",
+        "anthropic_red_blog.py",
+        "anthropic_research_blog.py",
+        "blogsurgeai_feed_generator.py",
+        "chanderramesh_blog.py",
+        "claude_blog.py",
+        "dagster_blog.py",
+        "deeplearningai_the_batch.py",
+        "google_ai_blog.py",
+        "hamel_blog.py",
+        "ollama_blog.py",
+        "openai_research_blog.py",
+        "paulgraham_blog.py",
+        "test_feed.py",
+        "thinkingmachines_blog.py",
+        "windsurf_changelog.py",
+        "windsurf_next_changelog.py",
+        "xainews_blog.py",
+    ]
     failed_scripts = []
     successful_scripts = []
 
