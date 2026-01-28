@@ -62,3 +62,4 @@ jobs:
             git commit -m 'Update RSS feed'
             git push
           fi
+
