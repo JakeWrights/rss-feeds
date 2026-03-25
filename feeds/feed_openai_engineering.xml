@@ -7,14 +7,78 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Mar 2026 16:08:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 21:37:58 +0000</lastBuildDate>
     <item>
-      <title>OpenAI o3 and o4-mini</title>
-      <link>https://openai.com/index/introducing-o3-and-o4-mini/</link>
-      <description>OpenAI o3 and o4-mini</description>
-      <guid isPermaLink="false">https://openai.com/index/introducing-o3-and-o4-mini/</guid>
+      <title>How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas</title>
+      <link>https://openai.com/index/building-chatgpt-atlas/</link>
+      <description>How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas</description>
+      <guid isPermaLink="false">https://openai.com/index/building-chatgpt-atlas/</guid>
       <category>Engineering</category>
-      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>How we used Codex to build Sora for Android in 28 days</title>
+      <link>https://openai.com/index/shipping-sora-for-android-with-codex/</link>
+      <description>How we used Codex to build Sora for Android in 28 days</description>
+      <guid isPermaLink="false">https://openai.com/index/shipping-sora-for-android-with-codex/</guid>
+      <category>Engineering</category>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scaling PostgreSQL to power 800 million ChatGPT users</title>
+      <link>https://openai.com/index/scaling-postgresql/</link>
+      <description>Scaling PostgreSQL to power 800 million ChatGPT users</description>
+      <guid isPermaLink="false">https://openai.com/index/scaling-postgresql/</guid>
+      <category>Engineering</category>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unrolling the Codex agent loop</title>
+      <link>https://openai.com/index/unrolling-the-codex-agent-loop/</link>
+      <description>Unrolling the Codex agent loop</description>
+      <guid isPermaLink="false">https://openai.com/index/unrolling-the-codex-agent-loop/</guid>
+      <category>Engineering</category>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inside OpenAI’s in-house data agent</title>
+      <link>https://openai.com/index/inside-our-in-house-data-agent/</link>
+      <description>Inside OpenAI’s in-house data agent</description>
+      <guid isPermaLink="false">https://openai.com/index/inside-our-in-house-data-agent/</guid>
+      <category>Engineering</category>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unlocking the Codex harness: how we built the App Server</title>
+      <link>https://openai.com/index/unlocking-the-codex-harness/</link>
+      <description>Unlocking the Codex harness: how we built the App Server</description>
+      <guid isPermaLink="false">https://openai.com/index/unlocking-the-codex-harness/</guid>
+      <category>Engineering</category>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Harness engineering: leveraging Codex in an agent-first world</title>
+      <link>https://openai.com/index/harness-engineering/</link>
+      <description>Harness engineering: leveraging Codex in an agent-first world</description>
+      <guid isPermaLink="false">https://openai.com/index/harness-engineering/</guid>
+      <category>Engineering</category>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beyond rate limits: scaling access to Codex and Sora</title>
+      <link>https://openai.com/index/beyond-rate-limits/</link>
+      <description>Beyond rate limits: scaling access to Codex and Sora</description>
+      <guid isPermaLink="false">https://openai.com/index/beyond-rate-limits/</guid>
+      <category>Engineering</category>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>From model to agent: Equipping the Responses API with a computer environment</title>
+      <link>https://openai.com/index/equip-responses-api-computer-environment/</link>
+      <description>From model to agent: Equipping the Responses API with a computer environment</description>
+      <guid isPermaLink="false">https://openai.com/index/equip-responses-api-computer-environment/</guid>
+      <category>Engineering</category>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
