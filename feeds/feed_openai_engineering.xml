@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Apr 2026 22:03:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 02:54:14 +0000</lastBuildDate>
     <item>
       <title>Scaling PostgreSQL to power 800 million ChatGPT users</title>
       <link>https://openai.com/index/scaling-postgresql/</link>
