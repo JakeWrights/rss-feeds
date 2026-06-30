@@ -7,15 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 15:25:46 +0000</lastBuildDate>
-    <item>
-      <title>Harness engineering: leveraging Codex in an agent-first world</title>
-      <link>https://openai.com/index/harness-engineering/</link>
-      <description>Harness engineering: leveraging Codex in an agent-first world</description>
-      <guid isPermaLink="false">https://openai.com/index/harness-engineering/</guid>
-      <category>Engineering</category>
-      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Jun 2026 19:53:21 +0000</lastBuildDate>
     <item>
       <title>Beyond rate limits: scaling access to Codex and Sora</title>
       <link>https://openai.com/index/beyond-rate-limits/</link>
@@ -79,6 +71,14 @@
       <guid isPermaLink="false">https://openai.com/index/building-self-improving-tax-agents-with-codex/</guid>
       <category>Engineering</category>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Core dump epidemiology: fixing an 18-year-old bug</title>
+      <link>https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/</link>
+      <description>Core dump epidemiology: fixing an 18-year-old bug</description>
+      <guid isPermaLink="false">https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/</guid>
+      <category>Engineering</category>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
