@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 19:13:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 22:54:13 +0000</lastBuildDate>
     <item>
       <title>Beyond rate limits: scaling access to Codex and Sora</title>
       <link>https://openai.com/index/beyond-rate-limits/</link>
